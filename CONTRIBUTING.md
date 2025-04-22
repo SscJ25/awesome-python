@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+# bitte sende eine Email an : Lieblingskollege@email.de
+
 ## Guidelines
 
 * Add one link per Pull Request.
